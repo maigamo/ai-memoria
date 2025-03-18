@@ -1,0 +1,16 @@
+{
+  "name": "AI Memoria",
+  "short_name": "AI Memoria",
+  "description": "AI Memoria 是一个智能记忆助手，帮助您更好地管理和组织信息。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
